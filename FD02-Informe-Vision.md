@@ -33,7 +33,8 @@ Docente: *Patrick Cuadros Quiroga*
 |CONTROL DE VERSIONES||||||
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|RLA,ACM|PCQ|PCQ|10/09/2024|Versión Original|
+|1\.0|RLA,ACM|PCQ|PCQ|13/08/2024|Versión Original|
+|2\.0|RLA,DSR|PCQ|PCQ|10/09/2024|Parte Final|
 
 
 
@@ -50,7 +51,7 @@ Docente: *Patrick Cuadros Quiroga*
 
 **Documento de Visión**
 
-**Versión *1.0***
+**Versión *2.0***
 
 
 
@@ -58,7 +59,9 @@ Docente: *Patrick Cuadros Quiroga*
 |CONTROL DE VERSIONES||||||
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|RLA,ACM|PCQ|PCQ|10/09/2024|Versión Original|
+|1\.0|RLA,ACM|PCQ|PCQ|13/08/2024|Versión Original|
+|2\.0|RLA,DSR|PCQ|PCQ|10/09/2024|Parte Final|
+
 
 
 
@@ -333,3 +336,25 @@ Las funcionalidades se priorizarán según:
 - Facilidad de desarrollo.
 - Riesgo de fallas.
 
+# CONCLUSIONES
+
+El desarrollo del dashboard para el Ministerio de Economía y Finanzas representa un avance significativo en la transparencia y eficiencia del gasto público. La herramienta permitirá a los funcionarios monitorear y evaluar el uso de los recursos financieros de manera integral, facilitando la toma de decisiones informadas. Además, la visualización de indicadores clave y la capacidad de realizar análisis comparativos contribuirán a una gestión financiera más efectiva y a una mayor rendición de cuentas ante la ciudadanía.
+
+# RECOMENDACIONES
+
+- **Capacitación Continua**: Se recomienda proporcionar capacitación regular a los usuarios del dashboard para maximizar su uso y efectividad.
+- **Actualización de Datos**: Implementar un sistema de actualización de datos en tiempo real para asegurar que la información presentada sea siempre precisa y relevante.
+- **Feedback de Usuarios**: Establecer un canal de retroalimentación donde los usuarios puedan expresar sus necesidades y sugerencias para futuras mejoras del dashboard.
+- **Seguridad de la Información**: Priorizar la implementación de medidas de seguridad robustas para proteger la integridad y confidencialidad de los datos.
+
+# BIBLIOGRAFÍA
+
+- Ministerio de Economía y Finanzas. (2024). Seguimiento de la ejecución presupuestal. Recuperado de: [https://www.mef.gob.pe/es/seguimiento-de-la-ejecucion-presupuestal-consulta-amigable](https://www.mef.gob.pe/es/seguimiento-de-la-ejecucion-presupuestal-consulta-amigable)
+- Ministerio de Economía y Finanzas. (2024). Proyecto de presupuesto del sector público. Recuperado de: [https://www.mef.gob.pe/es/presupuesto-del-sector-publico/proyecto-de-presupuesto](https://www.mef.gob.pe/es/presupuesto-del-sector-publico/proyecto-de-presupuesto)
+- YouTube. (2024). Video explicativo sobre el dashboard de ejecución del gasto público. Recuperado de: [https://m.youtube.com/watch?v=97d5O2QVK7w](https://m.youtube.com/watch?v=97d5O2QVK7w)
+
+# WEBGRAFÍA
+
+- **Ministerio de Economía y Finanzas**: Portal oficial donde se puede consultar información sobre la ejecución presupuestal y otros recursos financieros.
+- **Plataformas de Transparencia**: Sitios web que ofrecen acceso a información sobre el gasto público y la rendición de cuentas.
+- **Recursos Académicos**: Artículos y estudios sobre la importancia de la visualización de datos en la gestión pública y el análisis financiero.
