@@ -15,13 +15,12 @@
 Curso: *Inteligencia de Negocios* 
 Docente: *Patrick Cuadros Quiroga* 
 
-Integrantes:
-
-***{Lira Álvarez, Rodrigo Samael Adonai			(2019063331) }***
-***{Cutipa Machaca, Arnold Félix				(2019064040)  }***
-***{Chávez Linares, Cesar Fabian				(2019063854)  }***
-***{Lira Álvarez, Rodrigo Samael Adonai			(2019063331) }***
-***{Lira Álvarez, Rodrigo Samael Adonai			(2019063331) }***
+**Integrantes:**
+- Lira Álvarez Rodrigo Samael Adonai (2019063331)
+- Cutipa Machaca Arnold Félix (2019064040)
+- Chávez Linares Cesar Fabian (2019063854)
+- Arce Bracamonte Sebastián Rodrigo (2019062986)
+- Soto Rodriguez Duanet (2015051384)
 
 **Tacna – Perú**
 
@@ -55,15 +54,15 @@ Integrantes:
 **Versión *1.0***
 **
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
 
 |CONTROL DE VERSIONES||||||
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
+|1\.0|RLA,ACM|PCQ|PCQ|10/09/2024|Versión Original|
 
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
 
 
 **INDICE GENERAL**
@@ -138,8 +137,6 @@ e) Estandaraes de calidad y seguridad	](#_toc394513800)42
 
 [WEBGRAFIA](#_Toc52661358)
 
-
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 **<u>Informe de Visión</u>**
 
