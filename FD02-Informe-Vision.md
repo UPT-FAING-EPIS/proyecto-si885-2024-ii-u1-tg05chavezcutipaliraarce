@@ -26,15 +26,14 @@ Docente: *Patrick Cuadros Quiroga*
 
 ***2024***
 
-**  
-**
+
 </center>
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 |CONTROL DE VERSIONES||||||
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
+|1\.0|RLA,ACM|PCQ|PCQ|10/09/2024|Versión Original|
 
 
 
@@ -52,7 +51,7 @@ Docente: *Patrick Cuadros Quiroga*
 **Documento de Visión**
 
 **Versión *1.0***
-**
+
 
 
 
