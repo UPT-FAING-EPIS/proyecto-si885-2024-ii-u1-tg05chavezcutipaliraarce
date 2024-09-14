@@ -17,6 +17,7 @@ Curso: Inteligencia de Negocios Docente: *Patrick Cuadros Quiroga*
 Integrantes: 
 
 ***Lira Álvarez, Rodrigo Samael Adonai (2019063331)***
+
 ***Cutipa Machaca, Arnold Félix (2019064040)***
 
 ***Chávez Linares, Cesar Fabian (2019063854)***
@@ -49,19 +50,28 @@ Objetivos: .....................................................................
 2. [Riesgos ......................................................................................................... 5 ](#_page4_x82.00_y342.00)
 3. [Análisis de la Situación actual ................................................................................. 5 ](#_page4_x82.00_y593.00)
 4. [Estudio de Factibilidad ......................................................................................... 6 ](#_page5_x82.00_y693.00)
+   
 4.1. [Factibilidad Técnica .......................................................................................... 6 ](#_page5_x82.00_y731.00)
+
 4.2. [Factibilidad económica ........................................................................................ 7 ](#_page6_x82.00_y498.00)
+
 4.3. [Factibilidad Operativa ........................................................................................ 8 ](#_page7_x82.00_y636.00)
+
 4.4. [Factibilidad Legal ............................................................................................ 10 ](#_page9_x82.00_y346.00)
+
 4.5. [Factibilidad Social ........................................................................................... 12 ](#_page11_x82.00_y233.00)
+
 4.6. [Factibilidad Ambiental ........................................................................................ 13 ](#_page12_x82.00_y656.00)
-5. [Análisis Financiero........................................................................................ 15 ](#_page14_x82.00_y189.00)
-6. [Conclusiones .................................................................................................... 19 ](#_page18_x82.00_y584.00)
 
-<center>**Informe de Factibilidad**</center> 
+6. [Análisis Financiero........................................................................................ 15 ](#_page14_x82.00_y189.00)
+   
+7. [Conclusiones .................................................................................................... 19 ](#_page18_x82.00_y584.00)
 
-1. Descripción<a name="_page3_x82.00_y229.00"></a> del Proyecto 
-1..1 Nombre del proyecto  
+**Informe de Factibilidad**
+
+1. Descripción<a name="_page3_x82.00_y229.00"></a> del Proyecto
+   
+1.1. Nombre del proyecto  
 
 Proyecto de Dashboard del Estado de Ejecución del Gasto Publico para el Ministerio de Economía Y Finanzas
 
@@ -73,7 +83,8 @@ Proyecto de Dashboard del Estado de Ejecución del Gasto Publico para el Ministe
 
 El proyecto consiste en el desarrollo de un completo y visualmente informativo dashboard que ofrece un análisis detallado del estado de ejecución del gasto público para el Ministerio de Economía y Finanzas. Este dashboard proporciona una visión integral de cómo se están utilizando los recursos financieros, permitiendo a los responsables de la toma de decisiones evaluar el rendimiento del gasto público en diferentes  áreas  y  programas.  Mediante  la  visualización  de  indicadores  clave, tendencias históricas y comparativas, así como alertas tempranas sobre posibles desviaciones presupuestarias, el dashboard facilita una gestión financiera más eficaz y  transparente,  promoviendo  una  mejor  asignación  de  recursos  y  una  mayor rendición de cuentas en el ámbito gubernamental 
 
-1.4. Objetivos 
+1.4. Objetivos
+
 1.4.1. Objetivo general 
 
 Proporcionar al Ministerio de Economía y Finanzas una herramienta  efectiva y 
@@ -81,6 +92,7 @@ Proporcionar al Ministerio de Economía y Finanzas una herramienta  efectiva y
 accesible para monitorear y evaluar el estado de ejecución del gasto público de manera integral. 
 
 1.4.2. Objetivos Específicos 
+
 - **Desarrollar un dashboard interactivo**: Crear un dashboard que permita a los usuarios explorar y analizar el estado de ejecución del gasto público de manera interactiva, con opciones para filtrar, segmentar y visualizar datos relevantes. 
 - **Visualizar  indicadores  clave  de  rendimiento**:  Identificar  y  presentar  los indicadores clave de rendimiento relacionados con el gasto público 
 - **Facilitar el seguimiento temporal**: Permitir el seguimiento temporal del gasto público  a  lo  largo  del  tiempo,  proporcionando  herramientas  para  analizar tendencias,  patrones  estacionales  y  cambios  significativos  en  la  ejecución presupuestaria. 
@@ -89,8 +101,10 @@ accesible para monitorear y evaluar el estado de ejecución del gasto público d
    - La falta de claridad en los requisitos del proyecto puede llevar a un alcance mal definido,  lo  que  resulta  en  cambios  frecuentes  en  los  entregables  y  en  un aumento del tiempo y los recursos necesarios para completar el proyecto. 
    - La integración de datos de múltiples fuentes puede ser compleja y puede haber desafíos en la limpieza, transformación y combinación de datos. 
    - La falta de recursos adecuados ya sea en términos de personal, herramientas o presupuesto, puede obstaculizar el progreso del proyecto 
-   - La comunicación ineficaz entre los miembros del equipo, los interesados y los usuarios finales puede llevar a malentendidos y errores en la elaboración del proyecto. 
-3. Análisis<a name="_page4_x82.00_y593.00"></a> de la Situación actual 
+   - La comunicación ineficaz entre los miembros del equipo, los interesados y los usuarios finales puede llevar a malentendidos y errores en la elaboración del proyecto.
+  
+3. Análisis<a name="_page4_x82.00_y593.00"></a> de la Situación actual
+   
 3.1. Planteamiento del problema 
 
    El  Ministerio  de  Economía  y  Finanzas  requiere  una  herramienta  efectiva  y accesible para monitorear y evaluar el estado de ejecución del gasto público de manera integral. Actualmente, la supervisión de estos procesos se realiza con múltiples fuentes de datos y sistemas dispersos, lo que dificulta obtener una visión completa y en tiempo real del uso de los recursos financieros del gobierno. La falta de una herramienta centralizada y fácil de usar dificulta la capacidad del Ministerio  para  analizar  adecuadamente  la  ejecución  del  gasto  público, identificar tendencias y patrones significativos, y tomar decisiones informadas para optimizar la gestión financiera del gobierno. 
@@ -100,10 +114,12 @@ accesible para monitorear y evaluar el estado de ejecución del gasto público d
    El  desarrollo  de  un  dashboard  efectivo  para  el  seguimiento  del  estado  de ejecución del gasto público no solo mejorará la transparencia y la rendición de cuentas  en  la  gestión  financiera  del  gobierno,  sino  que  también  ayudará  a optimizar el uso de los recursos financieros y a garantizar el cumplimiento de los objetivos de desarrollo establecidos por el Ministerio y el gobierno en general*.* 
 
 3.2. Consideraciones de hardware y software 
+
 - **Herramientas  de  BI  y  visualización  de  datos:**  Herramientas  de  Business Intelligence (BI) y visualización de datos adecuadas para el proyecto como Power BI, Tableau, QlikView, etc. 
 - **Sistemas de gestión de bases de datos:** Sistemas de gestión como Microsoft SQL Server, PostgreSQL, MySQL, etc. 
 - **Capacidades  de  colaboración  y  compartición:  H**erramientas  que  faciliten  la colaboración  y  la  compartición  de  recursos,  como  sistemas  de  control  de versiones como Git y plataformas de colaboración en línea. 
-4. Estudio<a name="_page5_x82.00_y693.00"></a> de Factibilidad 
+4. Estudio<a name="_page5_x82.00_y693.00"></a> de Factibilidad
+  
 4.1. Factibilidad<a name="_page5_x82.00_y731.00"></a> Técnica *Hardware:* 
 
    *Hacer un inventario de los equipos de cómputo (computadoras de escritorio, laptops, etc.), servidores y demás hardware con los que cuenta actualmente el Ministerio de Economía y Finanzas.*
@@ -133,6 +149,7 @@ accesible para monitorear y evaluar el estado de ejecución del gasto público d
    *Hay que asegurar que se cumplan los requerimientos de dominio y direccionamiento IP.*
 
 4.2. Factibilidad<a name="_page6_x82.00_y498.00"></a> Económica Definir los siguientes costos: 
+
 4.2.1. Costos Generales  
 
 *{Los costos generales son todos los gastos realizados en accesorios y material de oficina y de uso diario, necesarios para los procesos, tales como, papeles, plumas, cartuchos de impresora, marcadores, computadora etc. Colocar tabla de costos.}* 
@@ -210,28 +227,41 @@ Se espera que el dashboard tenga un impacto positivo en los siguientes grupos de
 - **Ciudadanía:** Público objetivo del dashboard, quienes tendrán acceso a información transparente sobre el gasto público. 
 - **Organizaciones de la sociedad civil:** Pueden utilizar el dashboard para monitorear el gasto público y abogar por un uso más eficiente y equitativo de los recursos. 
 - **Medios de comunicación:** Pueden utilizar el dashboard para informar al público sobre la ejecución del gasto público y generar debates sobre la gestión fiscal. 
-- **Investigadores y académicos:** Pueden utilizar el dashboard para realizar investigaciones sobre temas relacionados con el gasto público, la economía y las políticas públicas. 
+- **Investigadores y académicos:** Pueden utilizar el dashboard para realizar investigaciones sobre temas relacionados con el gasto público, la economía y las políticas públicas.
+
 4.4. Factibilidad<a name="_page9_x82.00_y346.00"></a> Legal 
+
 4.4.1. **Leyes y Regulaciones de Protección de Datos Personales:** 
+
 - **Cumplimiento normativo:** Es crucial verificar que la recopilación, almacenamiento, procesamiento y uso de datos personales que se integrarán en el dashboard se ajuste a las leyes y normativas nacionales de protección de datos personales, como la Ley de Protección de Datos Personales (Ley N° 29733) en Perú. 
 - **Protección de la privacidad:** Se deben implementar medidas para garantizar que no se vulneren los derechos de privacidad de las personas físicas cuyos datos se procesan. Esto incluye obtener el consentimiento previo e informado de los individuos, limitar la recopilación de datos a lo estrictamente necesario y establecer mecanismos para garantizar la confidencialidad e integridad de la información. 
-- **Seguridad de datos:** Es obligatorio implementar medidas de seguridad técnicas y organizativas adecuadas para proteger los datos personales contra accesos no autorizados, alteraciones, divulgación o destrucción. Esto incluye controles de acceso, encriptación, copias de seguridad y procedimientos de respuesta a incidentes. 
+- **Seguridad de datos:** Es obligatorio implementar medidas de seguridad técnicas y organizativas adecuadas para proteger los datos personales contra accesos no autorizados, alteraciones, divulgación o destrucción. Esto incluye controles de acceso, encriptación, copias de seguridad y procedimientos de respuesta a incidentes.
+
 4.4.2. **Regulaciones de Seguridad Informática:** 
+
 - **Estándares de seguridad:** El desarrollo e implementación del dashboard deben cumplir con los estándares y mejores prácticas de seguridad informática vigentes, como el Marco de Referencia de Control de Seguridad de la Información (MCIT) del Centro Nacional de Seguridad Cibernética (NCSC) en Perú. 
 - **Controles de seguridad:** Se deben implementar controles de seguridad adecuados para proteger la información y los sistemas involucrados, como controles de acceso, autenticación, autorización, encriptación, firewalls, detección de intrusiones y copias de seguridad. 
-- **Gestión de riesgos:** Es necesario realizar una evaluación de riesgos de seguridad informática para identificar, analizar y mitigar los potenciales riesgos que puedan afectar la confidencialidad, integridad y disponibilidad de la información. 
+- **Gestión de riesgos:** Es necesario realizar una evaluación de riesgos de seguridad informática para identificar, analizar y mitigar los potenciales riesgos que puedan afectar la confidencialidad, integridad y disponibilidad de la información.
+  
 4.4.3. **Conducta de Negocios y Anticorrupción:** 
+
 - **Transparencia y ética:** El desarrollo e implementación del proyecto deben realizarse con absoluta transparencia y ética profesional, siguiendo los principios de buena fe, lealtad y responsabilidad. 
 - **Prevención de conflictos de interés:** Se deben establecer mecanismos para identificar y prevenir posibles conflictos de interés que puedan afectar la imparcialidad y objetividad del proyecto. 
-- **Políticas anticorrupción:** Se deben implementar políticas y procedimientos anticorrupción que prohíban cualquier tipo de soborno, fraude o prácticas corruptas. 
+- **Políticas anticorrupción:** Se deben implementar políticas y procedimientos anticorrupción que prohíban cualquier tipo de soborno, fraude o prácticas corruptas.
+
 4.4.4. **Leyes y Normativas Laborales:** 
+
 - **Derechos laborales:** En caso de requerir la contratación de personal para el desarrollo 
   - implementación del proyecto, se deben cumplir con todas las leyes laborales aplicables en Perú, incluyendo las relacionadas con jornadas laborales, prestaciones sociales, seguridad y salud ocupacional, entre otras. 
-- **Contrataciones justas:** Los procesos de contratación de personal deben realizarse de manera transparente, justa y no discriminatoria, siguiendo los procedimientos establecidos por la ley. 
+- **Contrataciones justas:** Los procesos de contratación de personal deben realizarse de manera transparente, justa y no discriminatoria, siguiendo los procedimientos establecidos por la ley.
+  
 4.4.5. **Normativas de Adquisiciones Públicas:** 
+
 - **Procesos de compras:** Si se requiere adquirir hardware, software o servicios para el desarrollo del proyecto, se deben seguir los procesos de compras públicas establecidos por la ley en Perú, como la Ley de Contrataciones Públicas (Ley N° 30225). 
-- **Transparencia en las compras:** Los procesos de contratación pública deben ser transparentes y competitivos, asegurando la libre participación de proveedores y la obtención de las mejores condiciones para el Estado. 
+- **Transparencia en las compras:** Los procesos de contratación pública deben ser transparentes y competitivos, asegurando la libre participación de proveedores y la obtención de las mejores condiciones para el Estado.
+  
 4.4.6. **Derechos de Propiedad Intelectual:** 
+
 - **Respeto a los derechos de autor:** Se debe garantizar que se respeten los derechos de autor y licenciamiento de cualquier software o componente de terceros utilizado en el desarrollo del dashboard. 
 - **Licencias de software:** Se deben obtener las licencias de software necesarias para el uso de cualquier software de terceros que se integre al dashboard. 
 - **Protección de la propiedad intelectual:** Se deben tomar las medidas necesarias para proteger la propiedad intelectual del proyecto, incluyendo el registro de derechos de autor, marcas y patentes, en caso de corresponder. 
@@ -240,8 +270,10 @@ Se espera que el dashboard tenga un impacto positivo en los siguientes grupos de
 
 - **Asesoría legal:** Es recomendable contar con la asesoría de un abogado especializado en derecho informático y protección de datos personales para garantizar el cumplimiento de todas las leyes y regulaciones aplicables. 
 - **Capacitación y sensibilización:** Se debe capacitar y sensibilizar al personal involucrado en el proyecto sobre la importancia de la protección de datos personales, la seguridad informática y la ética profesional. 
-- **Monitoreo y auditoría:** Se deben establecer mecanismos para monitorear y auditar el cumplimiento de las leyes y regulaciones aplicables durante todo el ciclo de vida del proyecto. 
+- **Monitoreo y auditoría:** Se deben establecer mecanismos para monitorear y auditar el cumplimiento de las leyes y regulaciones aplicables durante todo el ciclo de vida del proyecto.
+
 4.5. Factibilidad<a name="_page11_x82.00_y233.00"></a> Social
+
   **Clima Político:** 
 - **Análisis del contexto político:** Es esencial analizar si existen factores políticos que puedan afectar el desarrollo e implementación del proyecto, como cambios de gobierno, prioridades políticas, agendas legislativas, etc. 
 - **Identificación de riesgos políticos:** Se deben identificar posibles resistencias o falta de apoyo de ciertos grupos políticos al proyecto, ya sea por razones ideológicas, intereses particulares o desconocimiento de sus beneficios. 
@@ -271,8 +303,10 @@ Se espera que el dashboard tenga un impacto positivo en los siguientes grupos de
 - **Evaluación de la disposición:** Se debe evaluar la disposición y aceptación de los funcionarios públicos para adoptar e implementar esta nueva herramienta. Esto puede implicar realizar encuestas, entrevistas o grupos focales para comprender sus percepciones, necesidades y posibles resistencias. 
 - **Identificación de resistencias internas:** Es importante identificar posibles resistencias internas al proyecto, ya sea por temor a cambios en las rutinas de trabajo, falta de capacitación o desconocimiento de sus beneficios. 
 - **Gestión del cambio organizacional:** Se deben plantear estrategias de gestión del cambio organizacional para facilitar la adopción del dashboard, brindar capacitación adecuada al personal y abordar posibles resistencias de manera efectiva. 
-- **Comunicación interna efectiva:** Se debe establecer una estrategia de comunicación interna efectiva para informar a los empleados públicos sobre el proyecto, sus objetivos, beneficios y cómo impactará en su trabajo diario. 
+- **Comunicación interna efectiva:** Se debe establecer una estrategia de comunicación interna efectiva para informar a los empleados públicos sobre el proyecto, sus objetivos, beneficios y cómo impactará en su trabajo diario.
+
 4.6. Factibilidad<a name="_page12_x82.00_y656.00"></a> Ambiental
+
   **Consumo de Energía:** 
 - **Estimación del consumo energético:** Se debe estimar el consumo energético adicional que podría generar el uso de los equipos informáticos, servidores, redes y la infraestructura tecnológica requerida para el funcionamiento del dashboard. 
 - **Eficiencia energética:** Evaluar la implementación de medidas de eficiencia energética en los centros de datos, oficinas y espacios físicos involucrados en el proyecto. Esto podría incluir:  
@@ -340,7 +374,7 @@ El Ministerio de Economía y Finanzas podría asignar una parte de su presupuest
 - Suministro oportuno de insumos e inversiones  al identificar de manera temprana desviaciones presupuestarias y necesidades de reasignación de fondos. 
 - Cumplimiento más eficiente de requerimientos gubernamentales y marcos normativos sobre uso de recursos públicos. 
 
-  Beneficios Intangibles:  
+  *Beneficios Intangibles:*
 
 - Mejora en la Transparencia: El dashboard permitirá un acceso más fácil y rápido a  la información  sobre  el  gasto  público,  lo  que  incrementa  la transparencia gubernamental y fortalece la confianza del público en las instituciones. 
 - Facilitación de la Rendición de Cuentas: Con un acceso claro y visual a los datos de ejecución presupuestaria, los funcionarios y entidades responsables pueden rendir cuentas de manera más efectiva y precisa. 
@@ -437,4 +471,3 @@ Los resultados sugieren que el proyecto es financieramente viable, ya que presen
    *Factibilidad Social y Ambiental: El proyecto favorece la transparencia gubernamental y no presenta impactos sociales, culturales o ambientales significativos de carácter negativo. Se deben implementar buenas prácticas para la gestión ambiental.*
 
    *En conclusión, tomando las previsiones y aplicando las recomendaciones necesarias en cada uno de los aspectos evaluados, el proyecto de desarrollo del dashboard es factible  desde  las  perspectivas  técnica,  económica,  operativa,  legal,  social  y ambiental. Por lo tanto, se recomienda proceder con la siguiente fase de ejecución del proyecto.*
-20 
