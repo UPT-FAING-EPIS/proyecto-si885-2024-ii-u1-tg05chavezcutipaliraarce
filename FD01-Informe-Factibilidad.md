@@ -166,26 +166,38 @@ Se evalúan los costos operativos necesarios para mantener las actividades duran
 |**Ítem** |**Descripción** |**Costo Unitario** |**Meses** |**Total** |
 |1 |Agua |S/.60.00 |2 |S/.120.00 |
 |2 |Luz |S/ .120.00 |2 |S/.240.00 |
-|3 |Internet |S/.80.00 |2 |S/.160.00 |
-||||Total |S/   520.00 |
+||||Total | S/.360.00 |
 
 4.2.3. Costos del ambiente 
 
-{*Evaluar  si  se  cuenta  con  los  requerimientos  técnicos  para  la  implantación  del software como el dominio, infraestructura de red, acceso a internet, etc.}* 
+| Servicio | Costo |
+|---------------|---------------|
+| Acceso a Internet | S/.450|
+| Servicio en la nube | S/.300 |
+|Total| S/.750|
 
 4.2.4. Costos de personal 
 
-*{Aquí se incluyen los gastos generados por el recurso humano que se necesita para el desarrollo del sistema únicamente.* 
 
-*No se considerará personal para la operación y funcionamiento del sistema.*  
+| Rol | Horario | Pago |
+|---------------|---------------|----------|
+|Jefe de Proyecto| 8:00 - 18:00|S/.1200|
+| Analista | 8:00 – 16:00 |S/.500|
+| Administrador de base de datos | 8:00 – 16:00 |S/.700|
+|Programador|13:00 – 21:00|S/.500|
+|Documentador|13:00 – 21:00|S/.450|
+|Total|-|S/.3350|
 
-*Incluir tabla que muestra los gastos correspondientes al personal.* 
-
-*Indicar organización y roles. Indicar horario de trabajo del personal.}* 
 
 4.2.5. Costos totales del desarrollo del sistema  
 
-*{Totalizar costos y realizar resumen de costo final del proyecto y la forma de pago.}* 
+| Costos | Subtotal |
+|---------------|---------------|
+| Desarrollo | S/.560.00 |
+| Operativos | S/.360.00 | 
+| Ambiente | S/.750 |
+| Personal | S/.3350 |
+| Total|S/.5020 |
 
 4.3. Factibilidad<a name="_page7_x82.00_y636.00"></a> Operativa 
 
@@ -391,10 +403,10 @@ El Ministerio de Economía y Finanzas podría asignar una parte de su presupuest
 
 
 
-|**INVERSIÓN** |$2,705.00|
+|**INVERSIÓN** |S/.5320.00|
 | - | - |
-|**TASA R** |10% |
-|**PERIODO** |12 |
+|**TASA RETRONO** |10% |
+|**PERIODO** |12 meses |
 
 
 
@@ -412,9 +424,27 @@ El Ministerio de Economía y Finanzas podría asignar una parte de su presupuest
 |30|30|30|30|30|30|30|**4,009**|
 |1,170|1,170|1,170|1,170|1,170|1,170|1,170|**7,972** |
 
-Se ha ajustado el flujo de efectivo para reflejar la inversión inicial de $2,705.00, lo que resulta en un flujo neto de efectivo negativo en el primer período. A partir del segundo período, se generan flujos de efectivo positivos.
 
-- Cada periodo indicado en  el  cuadro  tiene una duración de un semestre (3 meses). En el periodo 0 se indica el total de inversión en el proyecto. 
+| Periodo | Ingreso | Costo | Flujo  | Total   |
+|---------|---------|-------|--------|---------|
+| 0       | 2600    | 5320  | -3720  | -3720   |
+| 1       | 2600    | 250   | 1350   | -1370   |
+| 2       | 2600    | 250   | 1350   | -20     |
+| 3       | 2600    | 250   | 1350   |  1330   |
+| 4       | 2600    | 250   | 1350   |  2680   |
+| 5       | 2600    | 250   | 1350   |  4030   |
+| 6       | 2600    | 250   | 1350   |  5380   |
+| 7       | 2600    | 250   | 1350   |  6730   |
+| 8       | 2600    | 250   | 1350   |  8080   |
+| 9       | 2600    | 250   | 1350   |  9430   |
+| 10      | 2600    | 250   | 1350   |  10780  |
+| 11      | 2600    | 250   | 1350   |  12130  |
+| 12      | 2600    | 250   | 1350   |  13480  |
+
+
+Se ha ajustado el flujo de efectivo para reflejar la inversión inicial de $2,705.00, lo que resulta en un flujo neto de efectivo negativo en el primer período. A partir del tercer período, se generan flujos de efectivo positivos.
+
+- Cada periodo indicado en  el  cuadro  tiene una duración de un medio semestre (3 meses). En el periodo 0 se indica el total de inversión en el proyecto. 
 - Teniendo en cuenta algunos supuestos: 
 - Los costos e ingresos obtenidos durante los 5 periodos son constantes según la información recolectada de la empresa 
 - El beneficio económico generado por la implementación del sistema es constante durante todos los periodos 
@@ -424,20 +454,18 @@ Se ha ajustado el flujo de efectivo para reflejar la inversión inicial de $2,70
 
 5.1.2.1. **Relación Beneficio/Costo (B/C)**
 
-<center>
-   |B/C |209.51% |
+
+   |B/C |306.51% |
    | - | - |
-</center>
+
 
 Relación Beneficio/Costo (B/C): La relación beneficio/costo es del 209.51%, lo que indica que por cada unidad monetaria invertida, se obtiene un beneficio equivalente a 2.09 veces la inversión inicial.
 
 5.1.2.2. **Valor Actual Neto (VAN)**
 
-<center>
-   |VAN|$7,972.02 |
+
+   |VAN|S/.4676.61 |
    | - | - |
-   |VAN |$4,167.02 |
-</center>
 
 
 
@@ -446,10 +474,9 @@ Valor Actual Neto (VAN): El Valor Actual Neto (VAN) se calcula restando el valor
 5.1.2.3. **Tasa Interna de Retorno (TIR)**
 
 
-<center>
    |TIR|29%|
    | - | - |
-</center>
+
 
 
 Tasa Interna de Retorno (TIR): La Tasa Interna de Retorno (TIR) se estima en un 29%. Esto significa que el proyecto tiene una tasa de rendimiento anualizada del 29%, superando la tasa de descuento del 10%. Por lo tanto, el proyecto se considera rentable.
