@@ -160,9 +160,8 @@ Se evalúan los costos operativos necesarios para mantener las actividades duran
 
 
 
-|**COSTOS OPERATIVOS** |||||
+|**COSTOS OPERATIVOS** |
 | - | :- | :- | :- | :- |
-||||||
 |**Ítem** |**Descripción** |**Costo Unitario** |**Meses** |**Total** |
 |1 |Agua |S/.60.00 |2 |S/.120.00 |
 |2 |Luz |S/ .120.00 |2 |S/.240.00 |
@@ -179,25 +178,26 @@ Se evalúan los costos operativos necesarios para mantener las actividades duran
 4.2.4. Costos de personal 
 
 
-| Rol | Horario | Pago |
-|---------------|---------------|----------|
-|Jefe de Proyecto| 8:00 - 18:00|S/.1200|
-| Analista | 8:00 – 16:00 |S/.500|
-| Administrador de base de datos | 8:00 – 16:00 |S/.700|
-|Programador|13:00 – 21:00|S/.500|
-|Documentador|13:00 – 21:00|S/.450|
-|Total|-|S/.3350|
+|      Rol       |    Horario   |   Pago   |
+|----------------|--------------|----------|
+|Jefe de Proyecto| 8:00 - 18:00 |  S/.1200 |
+|    Analista    | 8:00 – 16:00 |  S/.500  |
+| Administrador de base de datos | 8:00 – 16:00 | S/.700 |
+| Programador | 13:00 – 21:00 | S/.500 |
+| Diseñador | 13:00 - 21:00 | S/.300|
+| Documentador |13:00 – 21:00|S/.450|
+| Total |-| S/.3650 |
 
 
 4.2.5. Costos totales del desarrollo del sistema  
 
 | Costos | Subtotal |
-|---------------|---------------|
+|------------|---------------|
 | Desarrollo | S/.560.00 |
 | Operativos | S/.360.00 | 
-| Ambiente | S/.750 |
-| Personal | S/.3350 |
-| Total|S/.5020 |
+|  Ambiente  | S/.750.00 |
+|  Personal  | S/.3650   |
+|    Total   | S/.5320   |
 
 4.3. Factibilidad<a name="_page7_x82.00_y636.00"></a> Operativa 
 
@@ -427,7 +427,7 @@ El Ministerio de Economía y Finanzas podría asignar una parte de su presupuest
 | 12      | 2600    | 250   | 1350   |  13480  |
 
 
-Se ha ajustado el flujo de efectivo para reflejar la inversión inicial de $2,705.00, lo que resulta en un flujo neto de efectivo negativo en el primer período. A partir del tercer período, se generan flujos de efectivo positivos.
+Se ha ajustado el flujo de efectivo para reflejar la inversión inicial de S/.5320.00, lo que resulta en un flujo neto de efectivo negativo en el primer período. A partir del tercer período, se generan flujos de efectivo positivos.
 
 - Cada periodo indicado en  el  cuadro  tiene una duración de un medio semestre (3 meses). En el periodo 0 se indica el total de inversión en el proyecto. 
 - Teniendo en cuenta algunos supuestos: 
