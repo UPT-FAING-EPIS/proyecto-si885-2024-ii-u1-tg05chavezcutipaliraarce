@@ -62,21 +62,29 @@ _ [(https://app.powerbi.com/groups/me/reports/46b7b15d-ecb3-458d-8f7d-5f197a6949
 
 ![GastoAnualPublico](https://github.com/user-attachments/assets/a2080342-85b5-4120-a921-56ac69ba2601)
 
+- Hecho por: Arnold Cutipa Machaca
+
 #### Organismos y Sectores Publicos:
 
 ![Organismos y  sectores publicos](https://github.com/user-attachments/assets/7da3453a-31e4-4b08-bac1-1802bb06c123)
+
+- Hecho por: Sebastian Arce Bracamonte
 
 #### Departamentos: 
 
 ![Departamentos](https://github.com/user-attachments/assets/a871eccd-b206-4e94-9558-8909b715a5b0)
 
+- Hecho por: Daniel Soto
+
 #### Provincias: 
 
 ![provincias](https://github.com/user-attachments/assets/c66c7eb3-ea89-4366-8e55-d43ba6d56b35)
+
+- Hecho por: Rodrigo Lira Alvarez
 
 #### Tipos de Gastos:
 
 ![tipos de gastos](https://github.com/user-attachments/assets/8dd101c8-4fda-49c5-aadd-ba284d76755b)
 
-
+- Hecho por: Cesar Fabian Chavez Linares
 
