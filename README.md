@@ -8,13 +8,13 @@ Alumnos:
 - Rodrigo Lira Alvarez
 - Daniel Soto
 
-Artefactos:
+## Artefactos:
 # Diccionario de Datos: Estado de Ejecución de Ingresos y Gastos
 
-## Fuente del Archivo
+### Fuente del Archivo:
 EP_Estado_Ejecucion_Ingresos_Gastos_Diccionario.csv
 
-## Variables
+#### Variables:
 
 | Variable | Tipo de Dato | Descripción |
 |----------|--------------|-------------|
@@ -52,28 +52,28 @@ EP_Estado_Ejecucion_Ingresos_Gastos_Diccionario.csv
 | MONTO_PIM | Numérico | Autorizado Final o PIM |
 | MONTO_EJECUCION | Numérico | Ejecución de Ingresos o Gastos |
 
-# Power BI Web
+### Power BI Web
 _ [(https://app.powerbi.com/groups/me/reports/46b7b15d-ecb3-458d-8f7d-5f197a6949e8/ReportSection71596281a27feda5e503?experience=power-bi)]
 
-## Vistas:
+#### Vistas:
 
-### Gasto Anual Publico:
+##### Gasto Anual Publico:
 
 ![GastoAnualPublico](https://github.com/user-attachments/assets/a2080342-85b5-4120-a921-56ac69ba2601)
 
-### Organismos y Sectores Publicos:
+##### Organismos y Sectores Publicos:
 
 ![Organismos y  sectores publicos](https://github.com/user-attachments/assets/7da3453a-31e4-4b08-bac1-1802bb06c123)
 
-### Departamentos: 
+##### Departamentos: 
 
 ![Departamentos](https://github.com/user-attachments/assets/a871eccd-b206-4e94-9558-8909b715a5b0)
 
-### Provincias: 
+##### Provincias: 
 
 ![provincias](https://github.com/user-attachments/assets/c66c7eb3-ea89-4366-8e55-d43ba6d56b35)
 
-### Tipos de Gastos:
+##### Tipos de Gastos:
 
 ![tipos de gastos](https://github.com/user-attachments/assets/8dd101c8-4fda-49c5-aadd-ba284d76755b)
 
