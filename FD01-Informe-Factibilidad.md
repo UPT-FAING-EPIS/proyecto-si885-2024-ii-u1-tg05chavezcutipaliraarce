@@ -160,7 +160,7 @@ Se evalúan los costos operativos necesarios para mantener las actividades duran
 
 
 
-|**COSTOS OPERATIVOS** |
+|**COSTOS OPERATIVOS** |||||
 | - | :- | :- | :- | :- |
 |**Ítem** |**Descripción** |**Costo Unitario** |**Meses** |**Total** |
 |1 |Agua |S/.60.00 |2 |S/.120.00 |
