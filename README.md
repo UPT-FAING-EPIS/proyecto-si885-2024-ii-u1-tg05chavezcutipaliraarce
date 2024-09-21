@@ -9,7 +9,7 @@ Alumnos:
 - Daniel Soto
 
 ## Artefactos:
-# Diccionario de Datos: Estado de Ejecución de Ingresos y Gastos
+## Diccionario de Datos: Estado de Ejecución de Ingresos y Gastos
 
 ### Fuente del Archivo:
 EP_Estado_Ejecucion_Ingresos_Gastos_Diccionario.csv
