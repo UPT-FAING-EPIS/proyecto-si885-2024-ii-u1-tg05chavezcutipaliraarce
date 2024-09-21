@@ -9,4 +9,48 @@ Alumnos:
 - Daniel Soto
 
 Artefactos:
-- Power BI Web: [(https://app.powerbi.com/groups/me/reports/46b7b15d-ecb3-458d-8f7d-5f197a6949e8/ReportSection71596281a27feda5e503?experience=power-bi)]
+# Diccionario de Datos: Estado de Ejecución de Ingresos y Gastos
+
+## Fuente del Archivo
+EP_Estado_Ejecucion_Ingresos_Gastos_Diccionario.csv
+
+## Variables
+
+| Variable | Tipo de Dato | Descripción |
+|----------|--------------|-------------|
+| ANO_EJE | Carácter | Año de proceso |
+| MES_EJE | Carácter | Mes de proceso |
+| NIVEL_GOBIERNO_NOMBRE | Carácter | Nivel de Gobierno de la Entidad |
+| NIVEL | Carácter | Código de Nivel de la Entidad |
+| NIVEL_NOMBRE | Carácter | Descripción de Nivel de la Entidad |
+| DEPARTAMENTO_EJECUTORA | Carácter | Código de Departamento |
+| DEPARTAMENTO_EJECUTORA_NOMBRE | Carácter | Descripción de Departamento |
+| PROVINCIA_EJECUTORA | Carácter | Código de Provincia |
+| PROVINCIA_EJECUTORA_NOMBRE | Carácter | Descripción de Provincia |
+| DISTRITO_EJECUTORA | Carácter | Código de Distrito |
+| DISTRITO_EJECUTORA_NOMBRE | Carácter | Descripción de Distrito |
+| UBIGEO | Carácter | Ubicación Geográfica |
+| PLIEGO | Carácter | Código de Pliego |
+| PLIEGO_NOMBRE | Carácter | Descripción de Pliego |
+| FUENTE | Carácter | Código de Fuente de Financiamiento |
+| FUENTE_NOMBRE | Carácter | Descripción de Fuente de Financiamiento |
+| CLASE | Carácter | Clase del Ingreso o Categoría del Gasto |
+| CLASE_NOMBRE | Carácter | Descripción Clase del Ingreso o Categoría del Gasto |
+| TIPO_TRANSACCION | Carácter | Tipo transacción (1:Ingresos o 2: Gastos) |
+| TIPO_TRANSACCION_NOMBRE | Carácter | Descripción de Tipo transacción (Ingresos o Gastos) |
+| GENERICA | Carácter | Genérica |
+| GENERICA_NOMBRE | Carácter | Descripción de Genérica |
+| SUBGENERICA | Carácter | Subgenérica |
+| SUBGENERICA_NOMBRE | Carácter | Descripción de Subgenérica |
+| SUBGENERICA_DET | Carácter | Subgenérica Detalle |
+| SUBGENERICA_DET_NOMBRE | Carácter | Descripción Subgenérica Detalle |
+| ESPECIFICA | Carácter | Específica |
+| ESPECIFICA_NOMBRE | Carácter | Descripción Específica |
+| ESPECIFICA_DET | Carácter | Específica Detalle |
+| ESPECIFICA_DET_NOMBRE | Carácter | Descripción Específica Detalle |
+| MONTO_PIA | Numérico | Autorizado Inicial o PIA |
+| MONTO_PIM | Numérico | Autorizado Final o PIM |
+| MONTO_EJECUCION | Numérico | Ejecución de Ingresos o Gastos |
+
+# Power BI Web
+_ [(https://app.powerbi.com/groups/me/reports/46b7b15d-ecb3-458d-8f7d-5f197a6949e8/ReportSection71596281a27feda5e503?experience=power-bi)]
