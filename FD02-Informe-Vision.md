@@ -4,13 +4,13 @@
 
 ![./media/media/image1.png](./media/logo-upt.png)
 
-**UNIVERSIDAD PRIVADA DE TACNA**
+# UNIVERSIDAD PRIVADA DE TACNA
 
-**FACULTAD DE INGENIERIA**
+## FACULTAD DE INGENIERÍA
 
-**Escuela Profesional de Ingeniería de Sistemas**
+### Escuela Profesional de Ingeniería de Sistemas
 
-**PROYECTO DASHBOARD DEL ESTADO DE EJECUCION DEL GASTO PUBLICO PARA EL MINISTERIO DE ECONOMIA Y FINANZAS**
+### PROYECTO “DASHBOARD PARA EL GIMNASIO DE LA UNIVERSIDAD PRIVADA DE TACNA”
 
 Curso: *Inteligencia de Negocios* 
 Docente: *Patrick Cuadros Quiroga* 
@@ -33,8 +33,7 @@ Docente: *Patrick Cuadros Quiroga*
 |CONTROL DE VERSIONES||||||
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|RLA,ACM|PCQ|PCQ|13/08/2024|Versión Original|
-|2\.0|RLA,DSR|PCQ|PCQ|10/09/2024|Parte Final|
+|1\.0|RLA,DSR|PCQ|PCQ|05/10/202|Versión Original|
 
 
 
@@ -51,86 +50,37 @@ Docente: *Patrick Cuadros Quiroga*
 
 **Documento de Visión**
 
-**Versión *2.0***
+**Versión *1.0***
 
 
 
-
-|CONTROL DE VERSIONES||||||
-| :-: | :- | :- | :- | :- | :- |
-|Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|RLA,ACM|PCQ|PCQ|13/08/2024|Versión Original|
-|2\.0|RLA,DSR|PCQ|PCQ|10/09/2024|Parte Final|
-
-
-
-
-
-
-**INDICE GENERAL**
-#
-[1.	Introducción](#_Toc52661346)
-
-1.1	Propósito
-
-1.2	Alcance
-
-1.3	Definiciones, Siglas y Abreviaturas
-
-1.4	Referencias
-
-1.5	Visión General
-
-[2.	Posicionamiento](#_Toc52661347)
-
-2.1	Oportunidad de negocio
-
-2.2	Definición del problema
-
-[3.	Descripción de los interesados y usuarios](#_Toc52661348)
-
-3.1	Resumen de los interesados
-
-3.2	Resumen de los usuarios
-
-3.3	Entorno de usuario
-
-3.4	Perfiles de los interesados
-
-3.5	Perfiles de los Usuarios
-
-3.6	Necesidades de los interesados y usuarios
-
-[4.	Vista General del Producto](#_Toc52661349)
-
-4.1	Perspectiva del producto
-
-4.2	Resumen de capacidades
-
-4.3	Suposiciones y dependencias
-
-4.4	Costos y precios
-
-4.5	Licenciamiento e instalación
-
-[5.	Características del producto](#_Toc52661350)
-
-[6.	Restricciones](#_Toc52661351)
-
-[7.	Rangos de calidad](#_Toc52661352)
-
-[8.	Precedencia y Prioridad](#_Toc52661353)
-
-[9.	Otros requerimientos del producto](#_Toc52661354)
-
-b) Estandares legales
-
-c) Estandares de comunicación	](#_toc394513800)37
-
-d) Estandaraes de cumplimiento de la plataforma	](#_toc394513800)42
-
-e) Estandaraes de calidad y seguridad	](#_toc394513800)42
-
+1. [Introducción](#1-introducción)
+   - [1.1 Propósito](#11-propósito)
+   - [1.2 Alcance](#12-alcance)
+   - [1.3 Definiciones, Siglas y Abreviaturas](#13-definiciones-siglas-y-abreviaturas)
+   - [1.4 Referencias](#14-referencias)
+   - [1.5 Visión General](#15-visión-general)
+2. [Posicionamiento](#2-posicionamiento)
+   - [2.1 Oportunidad de negocio](#21-oportunidad-de-negocio)
+   - [2.2 Definición del problema](#22-definición-del-problema)
+3. [Descripción de los interesados y usuarios](#3-descripción-de-los-interesados-y-usuarios)
+   - [3.1 Resumen de los interesados](#31-resumen-de-los-interesados)
+   - [3.2 Resumen de los usuarios](#32-resumen-de-los-usuarios)
+   - [3.3 Entorno de usuario](#33-entorno-de-usuario)
+   - [3.4 Perfiles de los interesados](#34-perfiles-de-los-interesados)
+   - [3.5 Perfiles de los Usuarios](#35-perfiles-de-los-usuarios)
+   - [3.6 Necesidades de los interesados y usuarios](#36-necesidades-de-los-interesados-y-usuarios)
+4. [Vista General del Producto](#4-vista-general-del-producto)
+   - [4.1 Perspectiva del producto](#41-perspectiva-del-producto)
+   - [4.2 Resumen de capacidades](#42-resumen-de-capacidades)
+   - [4.3 Suposiciones y dependencias](#43-suposiciones-y-dependencias)
+   - [4.4 Costos y precios](#44-costos-y-precios)
+   - [4.5 Licenciamiento e instalación](#45-licenciamiento-e-instalación)
+5. [Características del producto](#5-características-del-producto)
+6. [Restricciones](#6-restricciones)
+7. [Rangos de calidad](#7-rangos-de-calidad)
+8. [Precedencia y Prioridad](#8-precedencia-y-prioridad)
+9. [Otros requerimientos del producto](#9-otros-requerimientos-del-producto)
 [CONCLUSIONES](#_Toc52661355)
 
 [RECOMENDACIONES](#_Toc52661356)
@@ -144,26 +94,26 @@ e) Estandaraes de calidad y seguridad	](#_toc394513800)42
 
 # 1. INTRODUCCIÓN
 
-El proyecto consiste en el desarrollo de un completo y visualmente informativo dashboard que ofrece un análisis detallado del estado de ejecución del gasto público para el Ministerio de Economía y Finanzas. Este dashboard proporciona una visión integral de cómo se están utilizando los recursos financieros, permitiendo a los responsables de la toma de decisiones evaluar el rendimiento del gasto público en diferentes áreas y programas.
+El presente proyecto consiste en desarrollar un dashboard informativo que permita llevar un control detallado de la asistencia de los estudiantes al gimnasio. Este dashboard se diseñará para visualizar de forma clara y dinámica los datos como horarios, datos personales y demás.
 
-Mediante la visualización de indicadores clave, tendencias históricas y comparativas, así como alertas tempranas sobre posibles desviaciones presupuestarias, el dashboard facilita una gestión financiera más eficaz y transparente, promoviendo una mejor asignación de recursos y una mayor rendición de cuentas en el ámbito gubernamental.
+El dashboard no solo facilitará el acceso a la información en tiempo real, sino que también permitirá un análisis posterior de los patrones de uso del gimnasio, lo que puede servir para la toma de decisiones en cuanto a la optimización de los recursos, personal y el mantenimiento del equipamiento. Además, brindará un entorno organizado y accesible para gestionar grandes volúmenes de datos de manera eficiente y segura.
 
 ## 1.1 PROPÓSITO
 
-Proporcionar al Ministerio de Economía y Finanzas una herramienta efectiva y accesible para monitorear y evaluar el estado de ejecución del gasto público de manera integral.
+El propósito de este proyecto es desarrollar un dashboard interactivo que permita registrar, monitorear y analizar la información de los alumnos que hacen uso del gimnasio universitario de manera eficiente. A través de la implementación de esta herramienta, se busca facilitar el control de asistencia y optimizar el manejo de los datos relacionados con los estudiantes que ingresan y salen del gimnasio.
 
 ## 1.2 ALCANCE
 
-Este proyecto abarca el diseño, desarrollo e implementación de un dashboard para el MEF. El dashboard incluirá indicadores clave de rendimiento (KPIs), gráficos, tablas, filtros y funcionalidades de drill-down.
+El alcance de este proyecto comprende el diseño, desarrollo e implementación de un dashboard interactivo que permita gestionar de manera eficiente la información de los alumnos que utilizan el gimnasio de la universidad. Este sistema se enfocará en las siguientes funcionalidades clave:
 
-- **Recopilación de datos**: Recopilación de datos financieros relevantes de diversas fuentes internas y externas como sistemas de contabilidad, bases de datos gubernamentales, informes financieros, entre otros.
-- **Integración de datos**: Integrar y consolidar los datos recopilados en una única fuente de datos que alimentará el dashboard. Esto implica limpieza, transformación y preparación de los datos para su uso en el análisis y la visualización.
-- **Desarrollo del dashboard**: Diseñar y desarrollar el dashboard en función de los requisitos del usuario y las mejores prácticas de visualización de datos. Esto incluiría la creación de visualizaciones interactivas, tableros de control, gráficos y otras herramientas de análisis.
-- **Funcionalidades clave**: Implementar funcionalidades clave en el dashboard como la capacidad de filtrar y segmentar datos, comparar períodos de tiempo, realizar análisis de tendencias y recibir alertas sobre desviaciones presupuestarias, entre otras.
+- **Registro de Datos**: El sistema permitirá el registro automático de la hora de ingreso y salida de cada alumno al gimnasio, junto con la captura de información relevante como DNI, nombres, apellidos y facultad a la que pertenecen.
+- **Visualización en Tiempo Real**: El dashboard ofrecerá una interfaz gráfica interactiva que mostrará la información actualizada de los alumnos que se encuentran dentro del gimnasio, incluyendo estadísticas de uso en tiempo real.
+- **Filtrado y Búsqueda de Información**: Los administradores del gimnasio podrán realizar búsquedas y aplicar filtros sobre la base de datos, permitiendo encontrar información específica de los usuarios, como nombres, facultades o DNI, de manera rápida y precisa.
+- **Historial de Uso**: El sistema almacenará un historial detallado de cada ingreso y salida, permitiendo a los administradores revisar y analizar patrones de asistencia en distintos periodos.
+- **Reportes y Análisis**: El dashboard contará con herramientas para la generación de reportes automáticos que detallen la frecuencia de uso del gimnasio, los horarios más concurridos y la distribución por facultades, facilitando la toma de decisiones informadas para la optimización del espacio y los recursos.
 
 ## 1.3 DEFINICIONES
 
-- **MEF**: Ministerio de Economía y Finanzas
 - **KPI**: Indicador Clave de Rendimiento
 - **Dashboard**: Panel de Control
 - **BI**: Business Intelligence (Inteligencia de Negocios)
@@ -172,12 +122,11 @@ Este proyecto abarca el diseño, desarrollo e implementación de un dashboard pa
 ## 1.4 REFERENCIAS
 
 - [https://www.mef.gob.pe/es/seguimiento-de-la-ejecucion-presupuestal-consulta-amigable](https://www.mef.gob.pe/es/seguimiento-de-la-ejecucion-presupuestal-consulta-amigable)
-- [https://www.mef.gob.pe/es/presupuesto-del-sector-publico/proyecto-de-presupuesto](https://www.mef.gob.pe/es/presupuesto-del-sector-publico/proyecto-de-presupuesto)
 - [https://m.youtube.com/watch?v=97d5O2QVK7w](https://m.youtube.com/watch?v=97d5O2QVK7w)
 
 ## 1.5 VISIÓN GENERAL
 
-Este proyecto tiene como objetivo desarrollar una herramienta que permita a los funcionarios del MEF, así como a otros actores interesados, tener una visión clara y completa del estado de la ejecución del gasto público. El dashboard facilitará el análisis y seguimiento del gasto por diferentes categorías, la identificación de posibles desviaciones entre el presupuesto asignado y el ejecutado, y la toma de decisiones informadas en materia de gestión fiscal.
+El proyecto de dashboard informativo para el gimnasio universitario tiene como objetivo centralizar y gestionar de manera eficiente la información de asistencia de los estudiantes, como la hora de ingreso y salida, DNI, nombres, apellidos y facultad. El sistema permitirá monitorear en tiempo real el uso del gimnasio, generar reportes automáticos, y facilitar el análisis de patrones de uso, mejorando la toma de decisiones y optimizando la gestión operativa, con un enfoque en la seguridad de los datos y la accesibilidad para los usuarios autorizados.
 
 ---
 
@@ -185,64 +134,65 @@ Este proyecto tiene como objetivo desarrollar una herramienta que permita a los 
 
 ## 2.1 OPORTUNIDAD DE NEGOCIO
 
-El desarrollo de este dashboard representa una oportunidad para el MEF de mejorar la transparencia y la rendición de cuentas en la gestión del gasto público. Además, permitirá fortalecer la toma de decisiones basada en datos y promover una cultura de eficiencia y eficacia en el gasto público.
+El desarrollo de este dashboard representa una oportunidad para la Universidad Privada de Tacna de mejorar el uso y gestión de su gimnasio, optimizando el uso de recursos, reduciendo tiempos de espera y mejorando la experiencia de los usuarios. Además, el análisis de datos de uso permitirá identificar patrones y tendencias, lo que puede dar lugar a iniciativas como la planificación de horarios más eficientes, la personalización de servicios o incluso la apertura de nuevos espacios en horarios de alta demanda.
+
+Desde un punto de vista estratégico, este dashboard también puede integrarse en planes de mejora continua de las instalaciones deportivas, abriendo posibilidades para justificar futuras inversiones o mejoras basadas en datos reales. Asimismo, el control de asistencia puede ser un factor clave para garantizar el cumplimiento de normativas internas y mejorar la seguridad dentro del gimnasio, lo que añade valor tanto a la administración como a los usuarios del servicio.
 
 ## 2.2 DEFINICIÓN DEL PROBLEMA
 
-El MEF actualmente no cuenta con una herramienta que permita visualizar de manera integrada y centralizada el estado de la ejecución del gasto público. Esto dificulta el análisis y seguimiento del gasto, la identificación de posibles desviaciones y la toma de decisiones informadas.
+La Universidad Privada de Tacna actualmente carece de un sistema eficiente para registrar y monitorear la asistencia de los estudiantes a su gimnasio, lo que dificulta el control de acceso y la gestión de datos. El método manual o no centralizado que se utiliza genera ineficiencias operativas, falta de visibilidad en tiempo real y una gestión deficiente de la información, lo cual puede derivar en congestiones durante horas pico, uso ineficiente de recursos y dificultad para generar reportes precisos sobre el uso de las instalaciones. Además, la falta de un sistema de análisis limita la capacidad de tomar decisiones informadas para optimizar el servicio y garantizar la seguridad de los usuarios.
 # 3. DESCRIPCIÓN DE LOS INTERESADOS Y USUARIOS
 
 ## 3.1 Resumen de los interesados
 
 Los principales interesados en este proyecto son:
 
-- **Funcionarios del MEF**: Los funcionarios del MEF serán los principales usuarios del dashboard. Utilizarán la herramienta para analizar y seguir el gasto público, identificar posibles desviaciones y tomar decisiones informadas.
-- **Alta dirección del MEF**: La alta dirección del MEF utilizará el dashboard para tener una visión general del estado de la ejecución del gasto público y tomar decisiones estratégicas.
-- **Contraloría General de la República**: La Contraloría General de la República utilizará el dashboard para realizar auditorías y controles del gasto público.
-- **Ciudadanos**: Los ciudadanos podrán acceder al dashboard de forma pública para tener información sobre el estado de la ejecución del gasto público.
+- **Administradores del gimnasio**: Son los usuarios principales del dashboard, responsables de gestionar el acceso de los estudiantes, supervisar la asistencia y generar reportes. Su interés radica en mejorar la eficiencia operativa y tener acceso a datos precisos y en tiempo real.
+- **Estudiantes usuarios del gimnasio**: Beneficiarios indirectos del sistema, ya que el dashboard optimiza la gestión del gimnasio, reduciendo tiempos de espera y mejorando la experiencia general del usuario.
+- **Personal de seguridad**: Interesados en la información proporcionada por el dashboard para garantizar que el acceso al gimnasio se realice de manera controlada y segura, con capacidad de monitorear quiénes se encuentran dentro de las instalaciones en cualquier momento.
+- **Departamento de TI**: Encargado de implementar, mantener y garantizar el buen funcionamiento del sistema, así como de asegurar la protección de los datos personales de los estudiantes.
+- **Administración universitaria**: Interesados en el análisis de datos para tomar decisiones estratégicas respecto a la gestión de los recursos, horarios y posibles inversiones en mejoras para el gimnasio.
 
 ## 3.2 Resumen de los usuarios
 
-Los usuarios del dashboard se pueden clasificar en dos grupos principales:
+Los usuarios accederán al dashboard a través de una interfaz. La interfaz debe ser fácil de usar e intuitiva, y debe permitir a los usuarios acceder rápidamente a la información que necesitan.
 
-- **Usuarios finales**: Son aquellos que utilizarán el dashboard de forma regular para analizar y seguir el gasto público. Estos usuarios pueden ser funcionarios del MEF, analistas de presupuesto, auditores, investigadores y ciudadanos interesados.
-- **Usuarios ocasionales**: Son aquellos que accederán al dashboard de forma esporádica para consultar información específica sobre el gasto público. Estos usuarios pueden ser periodistas, académicos, estudiantes y otros interesados.
+- **Usuarios finales**: Son aquellos que utilizarán el dashboard de forma continua para estar monitoriando el analisis de datos del gimnasio.
+- **Usuarios ocasionales**: Son aquellos que utilizaran el dashboard para ver sus datos. 
 
 ## 3.3 Entorno de usuario
 
-Los usuarios accederán al dashboard a través de una interfaz web. La interfaz debe ser fácil de usar e intuitiva y debe permitir a los usuarios acceder rápidamente a la información que necesitan.
+Los usuarios del dashboard utilizarán una interfaz intuitiva diseñada para facilitar la navegación y el acceso rápido a la información. De esta manera, se pretende que los usuarios puedan gestionar datos del gimnasio de manera eficiente sin complicaciones.
 
 ## 3.4 Perfiles de los interesados
 
-| Perfil                  | Descripción                                               | Necesidades                                                                                                                                                            |
-|-------------------------|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Funcionarios del MEF** | Analistas de presupuesto, gerentes de programa, etc.       | Analizar y seguir el gasto público por diferentes categorías (programa, fuente de financiamiento, unidad ejecutora, etc.) Identificar posibles desviaciones presupuestarias. |
+- **Alumno**: 
+  - **Descripción**: Alumnos de la universidad que utilizan el gimnasio como parte de sus actividades recreativas y deportivas.
+  - **Necesidades**: Desean un acceso fluido al gimnasio y una experiencia de usuario cómoda, sin largas esperas ni complicaciones.
 
 ## 3.5 Perfiles de los usuarios
 
-Al igual que los interesados, los usuarios del dashboard se pueden clasificar en dos grupos principales:
+Al igual que con los interesados, los usuarios del dashboard se pueden clasificar en dos grupos principales:
 
-### Usuarios finales:
+### 3.5 Perfiles de los Usuarios
 
-- **Analistas de presupuesto**: Necesitan analizar el gasto público en detalle para identificar tendencias, patrones y posibles áreas de ineficiencia. Requieren acceso a datos históricos y actuales, así como la capacidad de filtrar y segmentar la información por diferentes categorías.
-- **Gerentes de programa**: Monitorean el progreso de sus programas y proyectos para asegurarse de que se cumplan los objetivos y se mantengan dentro del presupuesto. Requieren indicadores clave de rendimiento (KPIs) y visualizaciones que les permitan identificar desviaciones y tomar medidas correctivas.
-- **Auditores**: Examinan el gasto público para detectar fraudes, abusos y errores. Requieren acceso a datos detallados sobre las transacciones, así como la capacidad de realizar análisis comparativos y generar informes.
-- **Investigadores**: Estudian el gasto público para comprender cómo se asigna y utiliza el dinero del gobierno. Requieren acceso a datos históricos y actuales, así como la capacidad de realizar análisis complejos y generar visualizaciones.
-- **Ciudadanos**: Requieren información general sobre el estado de la ejecución del gasto público para comprender cómo se gasta el dinero de sus impuestos. Necesitan un dashboard fácil de usar que presente la información de manera clara y concisa.
+Al igual que con los interesados, los usuarios del dashboard se pueden clasificar en dos grupos principales:
 
-### Usuarios ocasionales:
+#### 3.5.1 Usuarios Finales:
+- **Administradores del Gimnasio**: Encargados de la gestión diaria del gimnasio, supervisan la asistencia, controlan el acceso y generan reportes sobre el uso de las instalaciones.
+- **Personal de Seguridad**: Responsables de garantizar la seguridad en el gimnasio, monitorean el acceso y la seguridad de los usuarios dentro de las instalaciones.
 
-- **Periodistas**: Necesitan información específica sobre el gasto público para escribir artículos e informes. Requieren acceso a datos históricos y actuales, así como la capacidad de filtrar y segmentar la información por diferentes categorías.
-- **Académicos**: Estudian el gasto público para realizar investigaciones. Requieren acceso a datos históricos y actuales, así como la capacidad de realizar análisis complejos y generar visualizaciones.
-- **Estudiantes**: Necesitan aprender sobre el gasto público para comprender cómo funciona el gobierno. Requieren un dashboard fácil de usar que presente la información de manera clara y concisa.
+#### 3.5.2 Usuarios Ocasionales:
+- **Estudiantes**: Alumnos de la universidad que utilizan el gimnasio para actividades recreativas y deportivas, buscando una experiencia accesible y agradable en sus rutinas de ejercicio.
+- **Personal Administrativo de la Universidad**: Miembros del personal administrativo que revisan ocasionalmente la información del gimnasio, interesados en evaluar el uso de las instalaciones y la satisfacción de los estudiantes.
 
-## 3.6 Necesidades de los interesados y usuarios
+### 3.6 Necesidades de los interesados y usuarios
 
 Las necesidades de los interesados y usuarios del dashboard se pueden resumir en los siguientes puntos:
 
-- Acceso a información actualizada y confiable sobre el estado de la ejecución del gasto público.
-- Capacidad para analizar y seguir el gasto por diferentes categorías (programa, fuente de financiamiento, unidad ejecutora, etc.).
-- Posibilidad de identificar posibles desviaciones entre el presupuesto asignado y el ejecutado.
+- Acceso a información actualizada y confiable sobre el uso y estado del gimnasio de la Universidad Privada de Tacna.
+- Necesidad de información actualizada sobre la asistencia de los estudiantes al gimnasio.
+- Requerimiento de informes sobre el uso del gimnasio y patrones de asistencia para la toma de decisiones.
 - Herramientas para realizar análisis complejos y generar visualizaciones.
 - Una interfaz de usuario fácil de usar e intuitiva.
 - Acceso a datos históricos y actuales.
@@ -252,109 +202,127 @@ Las necesidades de los interesados y usuarios del dashboard se pueden resumir en
 
 ---
 
-# 4. VISTA GENERAL DEL PRODUCTO
+## 4. VISTA GENERAL DEL PRODUCTO
 
-## 4.1 Perspectiva del producto
+### 4.1 Perspectiva del producto
 
-El dashboard del estado de la ejecución del gasto público para el MEF será una herramienta de inteligencia de negocios (BI) que permitirá a los usuarios visualizar, analizar y comprender el gasto público de manera clara, concisa y oportuna. El dashboard estará diseñado para ser utilizado por una amplia gama de usuarios, desde analistas de presupuesto hasta ciudadanos interesados.
+El dashboard informativo para el gimnasio universitario será una herramienta de inteligencia de negocios (BI) que permitirá a los usuarios visualizar, analizar y comprender la asistencia y el uso del gimnasio de manera clara, concisa y oportuna. Este dashboard estará diseñado para ser utilizado por una amplia gama de usuarios, desde administradores y personal de seguridad hasta estudiantes y personal administrativo. Su interfaz intuitiva facilitará la gestión del acceso, el monitoreo en tiempo real y la generación de reportes sobre el uso de las instalaciones, contribuyendo a una mejor experiencia y gestión operativa del gimnasio.
 
-## 4.2 Resumen de capacidades
+### 4.2 Resumen de capacidades
 
 El dashboard incluirá las siguientes capacidades:
-- **Visualizaciones de datos**: Gráficos de barras, líneas, tablas y mapas. Estas visualizaciones permitirán a los usuarios ver el gasto público desde diferentes perspectivas.
-- **Filtros y segmentaciones**: Los usuarios podrán filtrar y segmentar la información por criterios como programa, fuente de financiamiento, unidad ejecutora y período de tiempo.
-- **Drill-down**: Los usuarios podrán profundizar en la información haciendo clic en los diferentes elementos del dashboard.
-- **Indicadores clave de rendimiento (KPIs)**: El dashboard incluirá KPIs que permitirán a los usuarios monitorear el progreso del gasto público.
-- **Análisis comparativo**: Los usuarios podrán comparar el gasto público a lo largo del tiempo, entre diferentes programas, fuentes de financiamiento o unidades ejecutoras.
-- **Generación de informes**: Los usuarios podrán generar informes personalizados que resuman la información del dashboard.
-- **Exportación de datos**: Los usuarios podrán exportar los datos del dashboard a diferentes formatos como CSV o Excel.
 
-## 4.3 Suposiciones y dependencias
+- **Monitoreo en Tiempo Real**: Proporciona datos actualizados sobre la asistencia de los estudiantes, permitiendo un seguimiento efectivo del uso del gimnasio.
+- **Generación de Reportes**: Facilita la creación de informes automáticos sobre patrones de asistencia y uso de las instalaciones, apoyando la toma de decisiones.
+- **Interfaz Intuitiva**: Ofrece un diseño fácil de usar que permite a los usuarios gestionar la información sin complicaciones.
+- **Control de Acceso**: Permite la supervisión del ingreso y salida de los estudiantes, garantizando la seguridad en el gimnasio.
+- **Filtrado y Búsqueda de Datos**: Proporciona herramientas para localizar información específica de los usuarios de manera rápida y eficiente.
+- **Historial de Asistencia**: Almacena registros detallados de uso del gimnasio, permitiendo el análisis de tendencias a lo largo del tiempo.
+- **Acceso Multiusuario**: Permite diferentes niveles de acceso para administradores, personal de seguridad y otros usuarios autorizados.
+- **Protección de Datos**: Implementa medidas de seguridad para salvaguardar la información personal de los estudiantes, asegurando el cumplimiento de normativas.
+- **Interacción Gráfica**: Presenta la información de manera visual, facilitando la comprensión de los datos y análisis.
+- **Soporte Técnico**: Ofrece asistencia para resolver problemas técnicos y garantizar el buen funcionamiento del dashboard.
+
+### 4.3 Suposiciones y dependencias
 
 Las siguientes son algunas de las suposiciones y dependencias del proyecto:
 
-- Disponibilidad de datos de buena calidad.
-- Recursos humanos suficientes para desarrollar, implementar y mantener el dashboard.
-- Presupuesto suficiente para financiar el proyecto.
-- Soporte de TI disponible para resolver problemas técnicos.
+- **Disponibilidad de datos**: El proyecto asume que los datos necesarios para el dashboard estarán disponibles y serán de buena calidad.
+- **Recursos humanos**: El proyecto asume que habrá recursos humanos suficientes disponibles para desarrollar, implementar y mantener el dashboard.
+- **Presupuesto**: El proyecto asume que habrá un presupuesto suficiente disponible para financiar el desarrollo, implementación y mantenimiento del dashboard.
+- **Soporte de TI**: El proyecto asume que habrá soporte de TI disponible para resolver problemas técnicos.
 
-## 4.4 Costos y precios
+### 4.4 Costos y precios
 
-Los costos del proyecto dependerán de factores como el alcance del proyecto, la complejidad de las funcionalidades y la tasa de horas de los consultores.
+Los costos del proyecto dependen de una serie de factores, como el alcance del proyecto, la complejidad de las funcionalidades y la tasa de horas de los consultores. El precio del dashboard se determinará en función de los costos del proyecto.
 
-## 4.5 Licenciamiento e instalación
+### 4.5 Licenciamiento e instalación
 
-El dashboard se licenciará bajo una licencia de código abierto. Podrá instalarse en un servidor local o en la nube.
-
----
-
-# 5. CARACTERÍSTICAS DEL PRODUCTO
-
-El dashboard incluirá las siguientes características:
-
-- **Visualizaciones de datos**:
-  - Gráficos de barras, líneas, tablas y mapas.
-- **Filtros y segmentaciones**: Por programa, fuente de financiamiento, unidad ejecutora, período de tiempo, nivel de gobierno, palabra clave.
-- **Drill-down**: Profundización de datos mediante clics en elementos interactivos.
-- **KPIs**: Indicadores de ejecución presupuestal, montos ejecutados y desviaciones.
-- **Análisis comparativo**: Comparaciones entre programas, financiamientos o ejecutoras.
-- **Generación de informes**: Informes personalizados con gráficos y tablas.
-- **Exportación de datos**: Exportación en formatos CSV o Excel.
-- **Seguridad**: Sistema de autenticación, autorización y encriptación.
-- **Accesibilidad**: Diseño accesible para personas con discapacidades.
+El dashboard se licenciará bajo una licencia de código abierto. El dashboard se podrá instalar en un servidor local o en la nube.
 
 ---
 
-# 6. RESTRICCIONES
+## 5. CARACTERÍSTICAS DEL PRODUCTO
 
-Las restricciones del proyecto incluyen:
+El dashboard para el gimnasio de la Universidad Privada de Tacna incluirá:
 
-- Disponibilidad de datos de calidad.
-- Necesidad de recursos humanos calificados.
-- Presupuesto suficiente.
-- Soporte de TI para la resolución de problemas técnicos.
-
----
-
-# 7. RANGOS DE CALIDAD
-
-Los siguientes rangos de calidad se esperan para el dashboard:
-
-- **Funcionalidad**: Cumplimiento de todos los requisitos funcionales.
-- **Usabilidad**: Facilidad de uso e intuitividad.
-- **Rendimiento**: Carga rápida de páginas y generación de informes.
-- **Confiabilidad**: Disponibilidad constante.
-- **Seguridad**: Protección y encriptación de datos.
+- **Monitoreo en Tiempo Real**: Proporciona datos actualizados sobre la asistencia y el uso del gimnasio, permitiendo un seguimiento efectivo y oportuno.
+- **Interfaz Intuitiva**: Diseñado específicamente para facilitar la navegación de los usuarios, asegurando que puedan acceder a la información sin complicaciones.
+- **Generación de Reportes**: Capacidad para generar informes automáticos sobre patrones de asistencia y uso de las instalaciones, apoyando la toma de decisiones informadas.
+- **Control de Acceso**: Permite supervisar el ingreso y salida de estudiantes, garantizando la seguridad dentro del gimnasio.
+- **Filtrado y Búsqueda de Datos**: Herramientas específicas para localizar información de estudiantes de manera rápida y eficiente, mejorando la gestión de datos.
+- **Historial de Asistencia**: Almacena registros detallados del uso del gimnasio a lo largo del tiempo, facilitando el análisis de tendencias y patrones.
+- **Interacción Gráfica**: Presenta la información de manera visual, utilizando gráficos y tablas que facilitan la comprensión de los datos y análisis.
 
 ---
 
-# 8. PRECEDENCIA Y PRIORIDAD
+## 6. RESTRICCIONES
 
-Las funcionalidades se priorizarán según:
+Las siguientes son algunas de las restricciones del proyecto:
 
-- Impacto en el negocio.
-- Facilidad de desarrollo.
-- Riesgo de fallas.
+- **Disponibilidad de datos**: El dashboard dependerá de la disponibilidad de datos de buena calidad. Si los datos no están disponibles o son de mala calidad, el dashboard no funcionará correctamente.
+- **Recursos humanos**: El desarrollo y mantenimiento del dashboard requerirá de recursos humanos calificados. Si no hay recursos humanos disponibles, el proyecto se retrasará o se cancelará.
+- **Presupuesto**: El desarrollo y mantenimiento del dashboard requerirá de un presupuesto suficiente. Si no hay un presupuesto suficiente, el proyecto se reducirá en alcance o se cancelará.
+- **Soporte de TI**: El dashboard requerirá de soporte de TI para resolver problemas técnicos. Si no hay soporte de TI disponible, el dashboard podría no estar disponible para los usuarios.
 
-# CONCLUSIONES
+---
 
-El desarrollo del dashboard para el Ministerio de Economía y Finanzas representa un avance significativo en la transparencia y eficiencia del gasto público. La herramienta permitirá a los funcionarios monitorear y evaluar el uso de los recursos financieros de manera integral, facilitando la toma de decisiones informadas. Además, la visualización de indicadores clave y la capacidad de realizar análisis comparativos contribuirán a una gestión financiera más efectiva y a una mayor rendición de cuentas ante la ciudadanía.
+## 7. RANGOS DE CALIDAD
 
-# RECOMENDACIONES
+Los siguientes son los rangos de calidad esperados para el dashboard:
 
-- **Capacitación Continua**: Se recomienda proporcionar capacitación regular a los usuarios del dashboard para maximizar su uso y efectividad.
-- **Actualización de Datos**: Implementar un sistema de actualización de datos en tiempo real para asegurar que la información presentada sea siempre precisa y relevante.
-- **Feedback de Usuarios**: Establecer un canal de retroalimentación donde los usuarios puedan expresar sus necesidades y sugerencias para futuras mejoras del dashboard.
-- **Seguridad de la Información**: Priorizar la implementación de medidas de seguridad robustas para proteger la integridad y confidencialidad de los datos.
+- **Funcionalidad**: El dashboard debe cumplir con todos los requisitos funcionales especificados en el documento de requisitos.
+- **Usabilidad**: El dashboard debe ser fácil de usar e intuitivo. Los usuarios deben poder encontrar la información que necesitan rápidamente y sin dificultad.
+- **Rendimiento**: El dashboard debe ser rápido y eficiente. Los usuarios no deben tener que esperar mucho tiempo para que se carguen las páginas o se generen los informes.
+- **Confiabilidad**: El dashboard debe ser confiable y estar disponible para los usuarios la mayor parte del tiempo.
+- **Seguridad**: El dashboard debe ser seguro y proteger los datos de los usuarios.
 
-# BIBLIOGRAFÍA
+---
 
-- Ministerio de Economía y Finanzas. (2024). Seguimiento de la ejecución presupuestal. Recuperado de: [https://www.mef.gob.pe/es/seguimiento-de-la-ejecucion-presupuestal-consulta-amigable](https://www.mef.gob.pe/es/seguimiento-de-la-ejecucion-presupuestal-consulta-amigable)
-- Ministerio de Economía y Finanzas. (2024). Proyecto de presupuesto del sector público. Recuperado de: [https://www.mef.gob.pe/es/presupuesto-del-sector-publico/proyecto-de-presupuesto](https://www.mef.gob.pe/es/presupuesto-del-sector-publico/proyecto-de-presupuesto)
-- YouTube. (2024). Video explicativo sobre el dashboard de ejecución del gasto público. Recuperado de: [https://m.youtube.com/watch?v=97d5O2QVK7w](https://m.youtube.com/watch?v=97d5O2QVK7w)
+## 8. PRECEDENCIA Y PRIORIDAD
 
-# WEBGRAFÍA
+La precedencia y prioridad de las funcionalidades del dashboard se determinarán en función de los siguientes criterios:
 
-- **Ministerio de Economía y Finanzas**: Portal oficial donde se puede consultar información sobre la ejecución presupuestal y otros recursos financieros.
-- **Plataformas de Transparencia**: Sitios web que ofrecen acceso a información sobre el gasto público y la rendición de cuentas.
-- **Recursos Académicos**: Artículos y estudios sobre la importancia de la visualización de datos en la gestión pública y el análisis financiero.
+- **Impacto en el negocio**: Las funcionalidades que tengan un mayor impacto en el negocio tendrán una mayor prioridad.
+- **Facilidad de desarrollo**: Las funcionalidades que sean más fáciles de desarrollar tendrán una mayor prioridad.
+- **Riesgo**: Las funcionalidades que tengan un mayor riesgo de fallar tendrán una menor prioridad.
+
+## 9. OTROS REQUERIMIENTOS DEL PRODUCTO
+
+Este proyecto tiene otros requerimientos clave que deben ser considerados durante su desarrollo e implementación, tales como:
+
+- **Soporte técnico**: Los usuarios deben contar con un equipo de soporte técnico disponible para resolver cualquier incidencia que pueda ocurrir con el uso del dashboard.
+- **Seguridad de los datos**: La protección de los datos personales de los estudiantes es fundamental y debe garantizarse mediante medidas de seguridad adecuadas.
+- **Cumplimiento de normativas**: El dashboard debe cumplir con todas las normativas legales y de la universidad, especialmente en cuanto a la protección de datos personales y privacidad.
+
+---
+
+## CONCLUSIONES
+
+La implementación del dashboard informativo para el gimnasio universitario transformará la gestión operativa al ofrecer datos en tiempo real sobre la asistencia de los estudiantes. Esta capacidad permitirá a los administradores tomar decisiones más informadas y optimizar el uso de recursos, mejorando la organización de las actividades en el gimnasio a través de reportes automáticos que faciliten el análisis de patrones de uso.
+
+Además, la experiencia de los estudiantes se enriquecerá gracias a la facilidad de acceso y la seguridad proporcionadas por el dashboard. Al controlar el ingreso y salida de los usuarios de manera eficiente, se generará un ambiente más seguro y organizado, lo que reducirá los tiempos de espera y aumentará la satisfacción general de los estudiantes, fomentando una mayor participación en actividades recreativas y deportivas.
+
+---
+
+## RECOMENDACIONES
+
+- **Capacitación Continua**: Es fundamental proporcionar formación regular a todos los usuarios del dashboard para garantizar que puedan utilizar todas las funcionalidades de manera efectiva. Esto mejorará la adopción del sistema y maximizará su utilidad.
+  
+- **Feedback de Usuarios**: Implementar un sistema de retroalimentación para que los usuarios puedan compartir sus experiencias y sugerencias. Esto permitirá realizar mejoras continuas en el dashboard, adaptándolo a las necesidades cambiantes de los usuarios.
+
+- **Monitoreo de Seguridad**: Establecer protocolos de seguridad que se revisen y actualicen periódicamente para proteger la información personal de los estudiantes. Esto no solo asegurará el cumplimiento normativo, sino que también fortalecerá la confianza de los usuarios en el sistema.
+
+---
+
+## BIBLIOGRAFÍA
+
+- Alvesson, M., & Sandberg, J. (2013). *Constructing research questions: Doing interesting research*. Sage Publications.
+- Koller, V., & Tully, A. (2021). *Visualizing data: A guide to creating interactive dashboards*. Wiley.
+
+---
+
+## WEBGRAFÍA
+
+- Tableau. (n.d.). What is a dashboard? Retrieved October 4, 2024, from [Tableau Website](https://www.tableau.com/learn/articles/dashboard).
+- Microsoft. (2023). Power BI documentation. Retrieved October 4, 2024, from [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/).
