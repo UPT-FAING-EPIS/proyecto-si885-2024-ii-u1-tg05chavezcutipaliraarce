@@ -27,9 +27,6 @@ Docente: *Patrick Cuadros Quiroga*
 ***2024***
 
 
-</center>
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
 |CONTROL DE VERSIONES||||||
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
@@ -119,10 +116,9 @@ El alcance de este proyecto comprende el diseño, desarrollo e implementación d
 - **BI**: Business Intelligence (Inteligencia de Negocios)
 - **DW**: Data Warehouse (Almacén de Datos)
 
-## 1.4 REFERENCIAS
+## 1.4 Referencias
 
-- [https://www.mef.gob.pe/es/seguimiento-de-la-ejecucion-presupuestal-consulta-amigable](https://www.mef.gob.pe/es/seguimiento-de-la-ejecucion-presupuestal-consulta-amigable)
-- [https://m.youtube.com/watch?v=97d5O2QVK7w](https://m.youtube.com/watch?v=97d5O2QVK7w)
+- **Fuente de datos**: Los datos utilizados en el proyecto han sido recolectados y transcritos manualmente desde hojas físicas proporcionadas por el gimnasio de la Universidad Privada de Tacna. La información incluye registros de asistencia de los estudiantes al gimnasio, tales como nombres, apellidos, DNI, facultad, y horarios de ingreso y salida. Los datos fueron organizados y procesados en un archivo Excel por los integrantes del equipo de proyecto.
 
 ## 1.5 VISIÓN GENERAL
 
