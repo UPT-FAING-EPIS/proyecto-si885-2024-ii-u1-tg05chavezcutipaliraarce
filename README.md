@@ -6,7 +6,7 @@ Alumnos:
 - Sebastian Arce Bracamonte
 - Arnold Cutipa Machaca
 - Rodrigo Lira Alvarez
-- Daniel Soto
+- Duanet Soto
 
 # Artefactos:
 
