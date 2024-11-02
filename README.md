@@ -9,6 +9,7 @@ Alumnos:
 - Duanet Soto
 
 # Artefactos:
+- Reportes por Facultad, Escuela y Curso.
 
 ## Fuente de Datos:
 - Tabla de Datos Generales
@@ -18,9 +19,5 @@ Alumnos:
 - Tabla de FAEDCOH
 - Tabla de FACEM
 - Tabla de FADE
+
 URL DE DATOS: https://drive.google.com/drive/folders/1ODCjo8euzIC_VQrtFT2A505b-vVp6dkf?usp=sharing
-
-### Fuente del Archivo:
-
-- Hecho por: Cesar Fabian Chavez Linares
-
