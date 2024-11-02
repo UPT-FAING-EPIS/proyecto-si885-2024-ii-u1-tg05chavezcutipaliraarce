@@ -10,8 +10,8 @@ Alumnos:
 
 # Artefactos:
 
-## Diccionario de Datos:
-
+## Fuente de Datos:
+https://drive.google.com/drive/folders/1u4Uovm9AFc9IWB3Nr3NJwwoqvUVu06Ri?usp=sharing
 
 ### Fuente del Archivo:
 
